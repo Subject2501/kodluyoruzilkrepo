@@ -24,3 +24,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 ## License
 
 [MIT](#)
+
+![image info](./Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-04-01%20213121.png)
